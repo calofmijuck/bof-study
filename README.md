@@ -15,6 +15,8 @@
     
 2. 자신이 사용할 적당한 이름의 디렉토리를 만들고 그 안으로 이동합니다.
     - `$ mkdir tester; cd tester`
+    - 같은 이름의 디렉토리가 이미 존재할 수도 있습니다. 안 겹치도록 만들어 주세요!
+    - 다른 사람의 디렉토리를 지우지는 말아주세요!
     
 3. 다음을 입력합니다.
     - `$ git clone https://github.com/calofmijuck/bof-study.git`
